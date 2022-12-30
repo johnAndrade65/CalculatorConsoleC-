@@ -1,0 +1,8 @@
+C:\Users\Pichau\Desktop\Projetos\ConsoleCalculateCSharp\ConsoleCalculateCSharp\obj\Debug\ConsoleCalculateCSharp.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Projetos\ConsoleCalculateCSharp\ConsoleCalculateCSharp\obj\Debug\ConsoleCalculateCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Desktop\Projetos\ConsoleCalculateCSharp\ConsoleCalculateCSharp\obj\Debug\ConsoleCalculateCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Projetos\ConsoleCalculateCSharp\ConsoleCalculateCSharp\bin\Debug\ConsoleCalculateCSharp.exe.config
+C:\Users\Pichau\Desktop\Projetos\ConsoleCalculateCSharp\ConsoleCalculateCSharp\bin\Debug\ConsoleCalculateCSharp.exe
+C:\Users\Pichau\Desktop\Projetos\ConsoleCalculateCSharp\ConsoleCalculateCSharp\bin\Debug\ConsoleCalculateCSharp.pdb
+C:\Users\Pichau\Desktop\Projetos\ConsoleCalculateCSharp\ConsoleCalculateCSharp\obj\Debug\ConsoleCalculateCSharp.exe
+C:\Users\Pichau\Desktop\Projetos\ConsoleCalculateCSharp\ConsoleCalculateCSharp\obj\Debug\ConsoleCalculateCSharp.pdb
